@@ -1,5 +1,6 @@
 # JobApp
 The Job Application Tracker is designed to help users efficiently manage and organize their job applications throughout their career journey. By utilizing Redux Toolkit, the application enhances key functionalities such as creating, updating, and filtering job applications, ensuring a smooth and productive user experience.
+
 # Technologies Used
 
 - **React**: Used to build the user interface.
@@ -11,3 +12,6 @@ The Job Application Tracker is designed to help users efficiently manage and org
 - **JSON Server**: Simulates an API and stores application data locally.
 - **Axios**: Used for making API requests and handling responses.
 - **React-Icons**: Enables the easy use of icons within the application.
+
+## Preview
+![jobApp](https://github.com/user-attachments/assets/adc09925-1d7c-45aa-b7c1-df583e1abc10)
